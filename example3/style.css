@@ -1,0 +1,29 @@
+body {
+  background-color: #20262E;
+  padding: 20px;
+  font-family: Helvetica;
+}
+
+.container {
+  background-color: #fff;
+  border-radius: 4px;
+  padding: 20px;
+  font-size: 25px;
+  text-align: center;
+  margin: 0 auto;
+  width: 300px;
+}
+
+.block-item {
+  background-color: #fff;
+  padding-bottom: 300px;
+  transition: all 1s 1s;
+}
+
+.hide {
+  opacity: 0;
+}
+
+img {
+  max-width: 100%;
+}
